@@ -1,7 +1,7 @@
 ﻿using AzureRedisCacheDemo.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace AzureRedisCacheDemo.Repositories
+namespace AzureRedisCacheDemo.Service
 {
     public class ProductService : IProductService
     {

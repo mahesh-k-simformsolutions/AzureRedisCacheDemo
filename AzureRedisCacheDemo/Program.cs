@@ -1,6 +1,6 @@
 using AzureRedisCacheDemo.Data;
-using AzureRedisCacheDemo.Repositories;
-using AzureRedisCacheDemo.Repositories.AzureRedisCache;
+using AzureRedisCacheDemo.Service;
+using AzureRedisCacheDemo.Service.AzureRedisCache;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

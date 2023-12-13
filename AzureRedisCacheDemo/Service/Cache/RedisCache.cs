@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using StackExchange.Redis;
 
-namespace AzureRedisCacheDemo.Repositories.AzureRedisCache
+namespace AzureRedisCacheDemo.Service.AzureRedisCache
 {
     public class RedisCache : IRedisCache
     {

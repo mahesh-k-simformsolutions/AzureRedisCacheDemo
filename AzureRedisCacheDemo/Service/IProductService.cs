@@ -1,6 +1,6 @@
 ﻿using AzureRedisCacheDemo.Data;
 
-namespace AzureRedisCacheDemo.Repositories
+namespace AzureRedisCacheDemo.Service
 {
     public interface IProductService
     {
